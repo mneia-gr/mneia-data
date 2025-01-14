@@ -1,10 +1,10 @@
 {
-  "id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+  "child_order": 2,
   "created_in_mneia": "2025-01-14 13:42:35.021806+00:00",
-  "updated_in_mneia": "2025-01-14 13:42:35.021828+00:00",
+  "description": null,
+  "id": "93452b5a-a947-30c8-934f-6a4056b151c2",
   "mbid": 2,
   "name": "Female",
   "parent": null,
-  "child_order": 2,
-  "description": null
+  "updated_in_mneia": "2025-01-14 13:42:35.021828+00:00"
 }
