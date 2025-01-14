@@ -1,0 +1,10 @@
+{
+  "id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+  "created_in_mneia": "2025-01-14 13:41:05.845213+00:00",
+  "updated_in_mneia": "2025-01-14 13:41:05.845239+00:00",
+  "mbid": 1,
+  "name": "Country",
+  "parent": null,
+  "child_order": 1,
+  "description": "Country is used for areas included (or previously included) in ISO 3166-1, e.g. United States."
+}
