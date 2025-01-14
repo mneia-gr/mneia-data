@@ -1,0 +1,21 @@
+{
+  "id": "2795ae85-2369-44ff-84e4-879045de032c",
+  "created_in_mneia": "2025-01-14 15:15:36.614128+00:00",
+  "updated_in_mneia": "2025-01-14 15:15:36.614162+00:00",
+  "mbid": null,
+  "parent": null,
+  "child_order": 0,
+  "entity_type0": "person",
+  "entity_type1": "photograph",
+  "name": "subject",
+  "description": "This is used to link a person to a photograph, in which the person is the subject of the photograph.",
+  "link_phrase": "subject of",
+  "reverse_link_phrase": "subject",
+  "long_link_phrase": "is subject of",
+  "priority": 0,
+  "last_updated": "2025-01-14 15:15:36.614272+00:00",
+  "is_deprecated": false,
+  "has_dates": true,
+  "entity0_cardinality": 0,
+  "entity1_cardinality": 0
+}
