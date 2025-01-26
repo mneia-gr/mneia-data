@@ -1,0 +1,12 @@
+{
+  "child_order": 0,
+  "created_in_mneia": "2025-01-26 07:24:19.588541+00:00",
+  "description": "The page of a Book or Magazine Issue in which something was published.",
+  "id": "2745d711-1ca1-4647-9971-5e208682fdcb",
+  "last_updated": "2025-01-26 07:24:19.588588+00:00",
+  "mbid": null,
+  "name": "page",
+  "parent": null,
+  "root": "2745d711-1ca1-4647-9971-5e208682fdcb",
+  "updated_in_mneia": "2025-01-26 07:24:19.588557+00:00"
+}
