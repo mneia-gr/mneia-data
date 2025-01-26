@@ -1,0 +1,20 @@
+{
+  "child_order": 0,
+  "created_in_mneia": "2025-01-26 06:56:13.580479+00:00",
+  "description": "This is used to link a Magazine Issue to a Photograph, where the Photograph has been published in that Magazine Issue.",
+  "entity0_cardinality": 0,
+  "entity1_cardinality": 0,
+  "entity_type0": "magazine_issue",
+  "entity_type1": "photograph",
+  "has_dates": true,
+  "id": "4225bcd7-1cb3-48fe-848a-e5e7457a8b2a",
+  "is_deprecated": false,
+  "last_updated": "2025-01-26 06:56:13.580604+00:00",
+  "link_phrase": "has published",
+  "long_link_phrase": "has published",
+  "mbid": null,
+  "name": "publication",
+  "parent": null,
+  "reverse_link_phrase": "published in",
+  "updated_in_mneia": "2025-01-26 06:56:13.580521+00:00"
+}
