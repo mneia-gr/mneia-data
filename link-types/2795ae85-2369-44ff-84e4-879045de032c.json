@@ -9,12 +9,12 @@
   "has_dates": true,
   "id": "2795ae85-2369-44ff-84e4-879045de032c",
   "is_deprecated": false,
-  "last_updated": "2025-01-14 15:15:36.614272+00:00",
+  "last_updated": "2025-01-27 14:44:47.279882+00:00",
   "link_phrase": "subject of",
-  "long_link_phrase": "is subject of",
+  "long_link_phrase": "is the subject of",
   "mbid": null,
   "name": "subject",
   "parent": null,
-  "reverse_link_phrase": "subject",
-  "updated_in_mneia": "2025-01-14 15:15:36.614162+00:00"
+  "reverse_link_phrase": "has subject",
+  "updated_in_mneia": "2025-01-27 14:44:47.279868+00:00"
 }
