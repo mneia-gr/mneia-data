@@ -9,12 +9,12 @@
   "has_dates": true,
   "id": "d2b71091-86fd-43cc-aa09-fd05d2f43e45",
   "is_deprecated": false,
-  "last_updated": "2025-01-28 17:28:59.522279+00:00",
+  "last_updated": "2025-01-29 08:46:54.154319+00:00",
   "link_phrase": "author of",
   "long_link_phrase": "is the author of",
   "mbid": null,
   "name": "author",
   "parent": null,
-  "reverse_link_phrase": "authored by",
-  "updated_in_mneia": "2025-01-28 17:28:59.522246+00:00"
+  "reverse_link_phrase": "was authored by",
+  "updated_in_mneia": "2025-01-29 08:46:54.154308+00:00"
 }
