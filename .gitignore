@@ -1,0 +1,14 @@
+# These rules exclude everything except Markdown and JSON files. Documentation: https://git-scm.com/docs/gitignore
+#
+# Documentation snippet relevant to the "exclude everything" rule:
+#
+# > It is not possible to re-include a file if a parent directory of that file is excluded.
+
+# exclude everything...
+*/*/*
+
+# except markdown files...
+!*.md
+
+# and json files...
+!*.json
