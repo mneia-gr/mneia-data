@@ -1,0 +1,20 @@
+{
+  "child_order": 0,
+  "created_in_mneia": "2025-02-06 04:28:38.574924+00:00",
+  "description": "Copied, not imported, from MusicBrainz LinkType 165, child of \"writer\", grandchild of \"composition\". Indicates the lyricist for this work.",
+  "entity0_cardinality": 0,
+  "entity1_cardinality": 0,
+  "entity_type0": "person",
+  "entity_type1": "work",
+  "has_dates": true,
+  "id": "890aa87e-6241-4ade-90a9-2f88b127ebd3",
+  "is_deprecated": false,
+  "last_updated": "2025-02-06 04:30:19.065727+00:00",
+  "link_phrase": "wrote the lyrics of",
+  "long_link_phrase": "wrote the lyrics of",
+  "mbid": null,
+  "name": "lyricist",
+  "parent": "9279ba8f-3fd3-4f73-b497-9ee7c81e127a",
+  "reverse_link_phrase": "lyrics written by",
+  "updated_in_mneia": "2025-02-06 04:30:19.065696+00:00"
+}
