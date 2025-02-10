@@ -1,14 +1,17 @@
 {
-  "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
-  "created_in_mneia": "2025-02-08 09:57:43.499816+00:00",
-  "edition": "Β Έκδοση",
-  "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
-  "id": "f979c381-dd7b-4e8f-9b71-6ca6c6507927",
-  "isbn": "9603221384",
-  "name": "Ένας άνθρωπος παντός καιρού",
-  "pages_number": 302,
-  "publication_date_day": null,
-  "publication_date_month": null,
-  "publication_date_year": 2000,
-  "updated_in_mneia": "2025-02-10 08:56:27.705049+00:00"
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-08 09:57:43.499816+00:00",
+    "edition": "Β Έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9603221384",
+    "name": "Ένας άνθρωπος παντός καιρού",
+    "pages_number": 302,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2000,
+    "updated_in_mneia": "2025-02-10 08:56:27.705049+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "f979c381-dd7b-4e8f-9b71-6ca6c6507927"
 }

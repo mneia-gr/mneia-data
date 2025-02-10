@@ -1,14 +1,17 @@
 {
-  "created_in_mneia": "2025-02-06 10:40:55.659086+00:00",
-  "edits_pending": 0,
-  "entity0_credit": "",
-  "entity1_credit": "",
-  "id": "990a3ad3-1b26-4f13-a476-540f8afb968a",
-  "last_updated": "2025-02-06 10:40:55.659139+00:00",
-  "link": "8b6edcbb-9b4a-4a57-96c5-153554c005e3",
-  "link_order": 0,
-  "mbid": null,
-  "person": "7ea22d2b-4781-4882-af6f-15a6ca286501",
-  "updated_in_mneia": "2025-02-06 10:40:55.659111+00:00",
-  "work": "e3a37fba-cc05-4d80-b4ae-04ae87b37469"
+  "fields": {
+    "created_in_mneia": "2025-02-06 10:40:55.659086+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-06 10:40:55.659139+00:00",
+    "link": "8b6edcbb-9b4a-4a57-96c5-153554c005e3",
+    "link_order": 0,
+    "mbid": null,
+    "person": "7ea22d2b-4781-4882-af6f-15a6ca286501",
+    "updated_in_mneia": "2025-02-06 10:40:55.659111+00:00",
+    "work": "e3a37fba-cc05-4d80-b4ae-04ae87b37469"
+  },
+  "model": "mneia_backend.linkpersonwork",
+  "pk": "990a3ad3-1b26-4f13-a476-540f8afb968a"
 }

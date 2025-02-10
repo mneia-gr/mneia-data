@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-02-03 16:11:20.000647+00:00",
-  "edits_pending": 0,
-  "id": "71bdbe9c-d441-41ae-b27c-efa3de8c02db",
-  "last_updated": "2025-02-03 16:11:20.000718+00:00",
-  "mbid": null,
-  "name": "Από την εγκυκλοπαίδειάν μου",
-  "type": "ee073257-b9e6-417a-bb23-059502946647",
-  "updated_in_mneia": "2025-02-03 16:11:20.000671+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-03 16:11:20.000647+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-03 16:11:20.000718+00:00",
+    "mbid": null,
+    "name": "Από την εγκυκλοπαίδειάν μου",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-03 16:11:20.000671+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "71bdbe9c-d441-41ae-b27c-efa3de8c02db"
 }

@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-02-02 13:58:55.294001+00:00",
-  "edits_pending": 0,
-  "id": "7b910181-8e2d-43e9-a669-12b1f3a96961",
-  "last_updated": "2025-02-02 13:58:55.294041+00:00",
-  "mbid": null,
-  "name": "Η νηστεία",
-  "type": "ee073257-b9e6-417a-bb23-059502946647",
-  "updated_in_mneia": "2025-02-02 13:58:55.294010+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-02 13:58:55.294001+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-02 13:58:55.294041+00:00",
+    "mbid": null,
+    "name": "Η νηστεία",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-02 13:58:55.294010+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "7b910181-8e2d-43e9-a669-12b1f3a96961"
 }

@@ -1,16 +1,19 @@
 {
-  "attribute_count": 1,
-  "begin_date_day": null,
-  "begin_date_month": null,
-  "begin_date_year": null,
-  "created": "2025-01-26 07:00:43.293711+00:00",
-  "created_in_mneia": "2025-01-26 07:00:43.293630+00:00",
-  "end_date_day": null,
-  "end_date_month": null,
-  "end_date_year": null,
-  "ended": false,
-  "id": "a39b93d2-18d8-41b7-b87d-d467f110bf05",
-  "link_type": "4225bcd7-1cb3-48fe-848a-e5e7457a8b2a",
-  "mbid": null,
-  "updated_in_mneia": "2025-01-26 12:23:41.465810+00:00"
+  "fields": {
+    "attribute_count": 1,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "created": "2025-01-26 07:00:43.293711+00:00",
+    "created_in_mneia": "2025-01-26 07:00:43.293630+00:00",
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "link_type": "4225bcd7-1cb3-48fe-848a-e5e7457a8b2a",
+    "mbid": null,
+    "updated_in_mneia": "2025-01-26 12:23:41.465810+00:00"
+  },
+  "model": "mneia_backend.link",
+  "pk": "a39b93d2-18d8-41b7-b87d-d467f110bf05"
 }

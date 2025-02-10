@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-01-30 14:23:05.099408+00:00",
-  "edits_pending": 0,
-  "id": "daf51121-7727-4a59-9fb1-f7775a3bef20",
-  "last_updated": "2025-01-30 14:23:05.099432+00:00",
-  "mbid": null,
-  "name": "Θεατρικά",
-  "type": "66b8026e-7ce8-36f8-a8d5-7c346c7b9a88",
-  "updated_in_mneia": "2025-01-30 14:23:05.099416+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-01-30 14:23:05.099408+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-01-30 14:23:05.099432+00:00",
+    "mbid": null,
+    "name": "Θεατρικά",
+    "type": "66b8026e-7ce8-36f8-a8d5-7c346c7b9a88",
+    "updated_in_mneia": "2025-01-30 14:23:05.099416+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "daf51121-7727-4a59-9fb1-f7775a3bef20"
 }

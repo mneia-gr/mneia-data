@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-01-30 16:42:10.048588+00:00",
-  "edits_pending": 0,
-  "id": "f4a563aa-b651-4bbf-9c1a-7f77d4ecac4c",
-  "last_updated": "2025-01-30 16:51:04.095584+00:00",
-  "mbid": null,
-  "name": "Νυκτερινό... Ίντερβιου",
-  "type": "4fa59409-50c6-446b-b871-85836553f3b5",
-  "updated_in_mneia": "2025-01-30 16:51:04.095576+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-01-30 16:42:10.048588+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-01-30 16:51:04.095584+00:00",
+    "mbid": null,
+    "name": "Νυκτερινό... Ίντερβιου",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-01-30 16:51:04.095576+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "f4a563aa-b651-4bbf-9c1a-7f77d4ecac4c"
 }

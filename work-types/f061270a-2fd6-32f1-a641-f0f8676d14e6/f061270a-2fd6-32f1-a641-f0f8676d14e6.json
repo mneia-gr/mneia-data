@@ -1,11 +1,14 @@
 {
-  "child_order": 1,
-  "created_in_mneia": "2025-02-05 17:11:52.886306+00:00",
-  "description": "A song is in its origin (and still in most cases) a composition for voice, with or without instruments, performed by singing. This is the most common form by far in folk and popular music, but also fairly common in a classical context (\"art songs\").",
-  "greek_name": "Τραγούδι",
-  "id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
-  "mbid": 17,
-  "name": "Song",
-  "parent": null,
-  "updated_in_mneia": "2025-02-05 17:12:24.196733+00:00"
+  "fields": {
+    "child_order": 1,
+    "created_in_mneia": "2025-02-05 17:11:52.886306+00:00",
+    "description": "A song is in its origin (and still in most cases) a composition for voice, with or without instruments, performed by singing. This is the most common form by far in folk and popular music, but also fairly common in a classical context (\"art songs\").",
+    "greek_name": "Τραγούδι",
+    "mbid": 17,
+    "name": "Song",
+    "parent": null,
+    "updated_in_mneia": "2025-02-05 17:12:24.196733+00:00"
+  },
+  "model": "mneia_backend.worktype",
+  "pk": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
 }

@@ -1,10 +1,13 @@
 {
-  "child_order": 3,
-  "created_in_mneia": "2025-02-09 08:46:17.915368+00:00",
-  "description": "City is used for settlements of any size, including towns and villages.",
-  "id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
-  "mbid": 3,
-  "name": "City",
-  "parent": null,
-  "updated_in_mneia": "2025-02-09 08:46:17.915383+00:00"
+  "fields": {
+    "child_order": 3,
+    "created_in_mneia": "2025-02-09 08:46:17.915368+00:00",
+    "description": "City is used for settlements of any size, including towns and villages.",
+    "mbid": 3,
+    "name": "City",
+    "parent": null,
+    "updated_in_mneia": "2025-02-09 08:46:17.915383+00:00"
+  },
+  "model": "mneia_backend.areatype",
+  "pk": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
 }

@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-02-03 09:14:39.110573+00:00",
-  "edits_pending": 0,
-  "id": "df28d585-9fef-43ab-b0eb-8301ab4acee9",
-  "last_updated": "2025-02-03 09:14:39.110606+00:00",
-  "mbid": null,
-  "name": "Νοσταλγία",
-  "type": "66b8026e-7ce8-36f8-a8d5-7c346c7b9a88",
-  "updated_in_mneia": "2025-02-03 09:14:39.110584+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-03 09:14:39.110573+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-03 09:14:39.110606+00:00",
+    "mbid": null,
+    "name": "Νοσταλγία",
+    "type": "66b8026e-7ce8-36f8-a8d5-7c346c7b9a88",
+    "updated_in_mneia": "2025-02-03 09:14:39.110584+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "df28d585-9fef-43ab-b0eb-8301ab4acee9"
 }

@@ -1,11 +1,14 @@
 {
-  "child_order": 0,
-  "created_in_mneia": "2025-01-30 13:47:11.172979+00:00",
-  "description": "",
-  "greek_name": "Άρθρο",
-  "id": "ee073257-b9e6-417a-bb23-059502946647",
-  "mbid": null,
-  "name": "Article",
-  "parent": null,
-  "updated_in_mneia": "2025-01-31 05:20:52.338640+00:00"
+  "fields": {
+    "child_order": 0,
+    "created_in_mneia": "2025-01-30 13:47:11.172979+00:00",
+    "description": "",
+    "greek_name": "Άρθρο",
+    "mbid": null,
+    "name": "Article",
+    "parent": null,
+    "updated_in_mneia": "2025-01-31 05:20:52.338640+00:00"
+  },
+  "model": "mneia_backend.worktype",
+  "pk": "ee073257-b9e6-417a-bb23-059502946647"
 }

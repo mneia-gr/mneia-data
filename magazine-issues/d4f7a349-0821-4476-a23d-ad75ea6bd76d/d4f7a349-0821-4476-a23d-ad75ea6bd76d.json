@@ -1,10 +1,13 @@
 {
-  "created_in_mneia": "2025-02-02 11:16:46.207335+00:00",
-  "date_published": "1926-10-24",
-  "id": "d4f7a349-0821-4476-a23d-ad75ea6bd76d",
-  "issue_number": "35ον Τεύχος",
-  "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
-  "order": 35,
-  "pages_number": 8,
-  "updated_in_mneia": "2025-02-02 18:53:23.515892+00:00"
+  "fields": {
+    "created_in_mneia": "2025-02-02 11:16:46.207335+00:00",
+    "date_published": "1926-10-24",
+    "issue_number": "35ον Τεύχος",
+    "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
+    "order": 35,
+    "pages_number": 8,
+    "updated_in_mneia": "2025-02-02 18:53:23.515892+00:00"
+  },
+  "model": "mneia_backend.magazineissue",
+  "pk": "d4f7a349-0821-4476-a23d-ad75ea6bd76d"
 }

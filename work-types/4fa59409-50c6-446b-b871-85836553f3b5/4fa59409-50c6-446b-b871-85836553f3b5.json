@@ -1,11 +1,14 @@
 {
-  "child_order": 0,
-  "created_in_mneia": "2025-01-30 12:15:32.451300+00:00",
-  "description": "",
-  "greek_name": "Διήγημα",
-  "id": "4fa59409-50c6-446b-b871-85836553f3b5",
-  "mbid": null,
-  "name": "Short story",
-  "parent": null,
-  "updated_in_mneia": "2025-01-31 05:21:03.703444+00:00"
+  "fields": {
+    "child_order": 0,
+    "created_in_mneia": "2025-01-30 12:15:32.451300+00:00",
+    "description": "",
+    "greek_name": "Διήγημα",
+    "mbid": null,
+    "name": "Short story",
+    "parent": null,
+    "updated_in_mneia": "2025-01-31 05:21:03.703444+00:00"
+  },
+  "model": "mneia_backend.worktype",
+  "pk": "4fa59409-50c6-446b-b871-85836553f3b5"
 }

@@ -1,10 +1,13 @@
 {
-  "created_in_mneia": "2025-02-02 10:38:36.518978+00:00",
-  "date_published": "1926-05-23",
-  "id": "5c5e0a96-40b7-4ce6-a286-6ba2ce447a4f",
-  "issue_number": "13ον Τεύχος",
-  "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
-  "order": 13,
-  "pages_number": 8,
-  "updated_in_mneia": "2025-02-02 18:53:23.462530+00:00"
+  "fields": {
+    "created_in_mneia": "2025-02-02 10:38:36.518978+00:00",
+    "date_published": "1926-05-23",
+    "issue_number": "13ον Τεύχος",
+    "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
+    "order": 13,
+    "pages_number": 8,
+    "updated_in_mneia": "2025-02-02 18:53:23.462530+00:00"
+  },
+  "model": "mneia_backend.magazineissue",
+  "pk": "5c5e0a96-40b7-4ce6-a286-6ba2ce447a4f"
 }

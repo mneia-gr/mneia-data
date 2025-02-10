@@ -1,10 +1,13 @@
 {
-  "created_in_mneia": "2025-02-02 10:35:22.568562+00:00",
-  "date_published": "1926-04-18",
-  "id": "4a8da9b4-be95-493a-8cea-2dd1a4e45a90",
-  "issue_number": "8ον Τεύχος",
-  "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
-  "order": 8,
-  "pages_number": 8,
-  "updated_in_mneia": "2025-02-02 18:53:23.450691+00:00"
+  "fields": {
+    "created_in_mneia": "2025-02-02 10:35:22.568562+00:00",
+    "date_published": "1926-04-18",
+    "issue_number": "8ον Τεύχος",
+    "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
+    "order": 8,
+    "pages_number": 8,
+    "updated_in_mneia": "2025-02-02 18:53:23.450691+00:00"
+  },
+  "model": "mneia_backend.magazineissue",
+  "pk": "4a8da9b4-be95-493a-8cea-2dd1a4e45a90"
 }

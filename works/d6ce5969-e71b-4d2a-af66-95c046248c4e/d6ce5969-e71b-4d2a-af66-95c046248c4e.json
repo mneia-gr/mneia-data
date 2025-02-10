@@ -1,11 +1,14 @@
 {
-  "comment": "",
-  "created_in_mneia": "2025-01-30 13:47:54.415350+00:00",
-  "edits_pending": 0,
-  "id": "d6ce5969-e71b-4d2a-af66-95c046248c4e",
-  "last_updated": "2025-01-30 13:47:54.415389+00:00",
-  "mbid": null,
-  "name": "Χαίρε Καρνάβαλε!",
-  "type": "ee073257-b9e6-417a-bb23-059502946647",
-  "updated_in_mneia": "2025-01-30 13:47:54.415364+00:00"
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-01-30 13:47:54.415350+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-01-30 13:47:54.415389+00:00",
+    "mbid": null,
+    "name": "Χαίρε Καρνάβαλε!",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-01-30 13:47:54.415364+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "d6ce5969-e71b-4d2a-af66-95c046248c4e"
 }

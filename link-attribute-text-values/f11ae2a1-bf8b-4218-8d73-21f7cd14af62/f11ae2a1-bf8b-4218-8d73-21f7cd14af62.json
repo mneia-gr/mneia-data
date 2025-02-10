@@ -1,8 +1,11 @@
 {
-  "attribute_type": "9bff5ee1-a035-42a8-8b2f-da0b7d7213d3",
-  "created_in_mneia": "2025-01-30 09:33:35.087155+00:00",
-  "id": "f11ae2a1-bf8b-4218-8d73-21f7cd14af62",
-  "link": "426ce0bd-3075-4fbc-b408-fd8f9fa39bd9",
-  "text_value": "7",
-  "updated_in_mneia": "2025-01-30 09:33:35.087171+00:00"
+  "fields": {
+    "attribute_type": "9bff5ee1-a035-42a8-8b2f-da0b7d7213d3",
+    "created_in_mneia": "2025-01-30 09:33:35.087155+00:00",
+    "link": "426ce0bd-3075-4fbc-b408-fd8f9fa39bd9",
+    "text_value": "7",
+    "updated_in_mneia": "2025-01-30 09:33:35.087171+00:00"
+  },
+  "model": "mneia_backend.linkattributetextvalue",
+  "pk": "f11ae2a1-bf8b-4218-8d73-21f7cd14af62"
 }

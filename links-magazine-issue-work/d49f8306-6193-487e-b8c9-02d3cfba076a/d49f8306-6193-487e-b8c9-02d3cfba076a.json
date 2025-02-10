@@ -1,14 +1,17 @@
 {
-  "created_in_mneia": "2025-02-03 08:57:38.688451+00:00",
-  "edits_pending": 0,
-  "entity0_credit": "",
-  "entity1_credit": "",
-  "id": "d49f8306-6193-487e-b8c9-02d3cfba076a",
-  "last_updated": "2025-02-03 08:57:38.688476+00:00",
-  "link": "220c8b9c-13f4-40a7-b5f0-637d2172126b",
-  "link_order": 0,
-  "magazine_issue": "a45560af-be36-480d-802e-21853495b719",
-  "mbid": null,
-  "updated_in_mneia": "2025-02-03 08:57:38.688463+00:00",
-  "work": "9f844971-bf3e-43f7-8c04-71440d473e81"
+  "fields": {
+    "created_in_mneia": "2025-02-03 08:57:38.688451+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-03 08:57:38.688476+00:00",
+    "link": "220c8b9c-13f4-40a7-b5f0-637d2172126b",
+    "link_order": 0,
+    "magazine_issue": "a45560af-be36-480d-802e-21853495b719",
+    "mbid": null,
+    "updated_in_mneia": "2025-02-03 08:57:38.688463+00:00",
+    "work": "9f844971-bf3e-43f7-8c04-71440d473e81"
+  },
+  "model": "mneia_backend.linkmagazineissuework",
+  "pk": "d49f8306-6193-487e-b8c9-02d3cfba076a"
 }

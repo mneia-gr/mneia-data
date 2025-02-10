@@ -1,10 +1,13 @@
 {
-  "child_order": 1,
-  "created_in_mneia": "2025-01-28 19:18:39.361724+00:00",
-  "description": null,
-  "id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-  "mbid": 1,
-  "name": "Male",
-  "parent": null,
-  "updated_in_mneia": "2025-01-28 19:18:39.361747+00:00"
+  "fields": {
+    "child_order": 1,
+    "created_in_mneia": "2025-01-28 19:18:39.361724+00:00",
+    "description": null,
+    "mbid": 1,
+    "name": "Male",
+    "parent": null,
+    "updated_in_mneia": "2025-01-28 19:18:39.361747+00:00"
+  },
+  "model": "mneia_backend.gender",
+  "pk": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
 }

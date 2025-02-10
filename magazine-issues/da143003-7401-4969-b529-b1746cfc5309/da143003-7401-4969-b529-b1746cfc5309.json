@@ -1,10 +1,13 @@
 {
-  "created_in_mneia": "2025-02-02 10:51:35.212225+00:00",
-  "date_published": "1926-06-06",
-  "id": "da143003-7401-4969-b529-b1746cfc5309",
-  "issue_number": "15ον Τεύχος",
-  "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
-  "order": 15,
-  "pages_number": 8,
-  "updated_in_mneia": "2025-02-02 18:53:23.466234+00:00"
+  "fields": {
+    "created_in_mneia": "2025-02-02 10:51:35.212225+00:00",
+    "date_published": "1926-06-06",
+    "issue_number": "15ον Τεύχος",
+    "magazine": "0e609d69-f994-4930-8812-b188175f35d1",
+    "order": 15,
+    "pages_number": 8,
+    "updated_in_mneia": "2025-02-02 18:53:23.466234+00:00"
+  },
+  "model": "mneia_backend.magazineissue",
+  "pk": "da143003-7401-4969-b529-b1746cfc5309"
 }
