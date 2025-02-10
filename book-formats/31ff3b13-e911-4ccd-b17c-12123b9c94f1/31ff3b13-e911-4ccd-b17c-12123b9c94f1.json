@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "child_order": 0,
+    "created_in_mneia": "2025-02-10 09:48:03.353874+00:00",
+    "description": "",
+    "greek_name": null,
+    "mbid": null,
+    "name": "Hardcover",
+    "parent": null,
+    "updated_in_mneia": "2025-02-10 09:48:03.353887+00:00"
+  },
+  "model": "mneia_backend.bookformat",
+  "pk": "31ff3b13-e911-4ccd-b17c-12123b9c94f1"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-10 09:56:42.519299+00:00",
+    "edition": "Β' έκδοση - αναθεωρημένη",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9786188694941",
+    "name": "Ραντεβού στο Κύτταρο",
+    "pages_number": 365,
+    "publication_date_day": null,
+    "publication_date_month": 4,
+    "publication_date_year": 2024,
+    "updated_in_mneia": "2025-02-10 09:57:14.615367+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "88f1e125-bc03-4379-9275-f3fed973a216"
+}

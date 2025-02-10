@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-10 09:44:56.542151+00:00",
+    "name": "Εκδόσεις IANOS",
+    "updated_in_mneia": "2025-02-10 09:44:56.542170+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "9b5532e6-093d-4266-979d-643a140e9876"
+}

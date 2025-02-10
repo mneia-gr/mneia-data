@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-10 09:49:46.917517+00:00",
+    "edition": "1η έκδοση",
+    "format": "31ff3b13-e911-4ccd-b17c-12123b9c94f1",
+    "isbn": "9789607827661",
+    "name": "Εδώ είναι του Ρασούλη",
+    "pages_number": 576,
+    "publication_date_day": null,
+    "publication_date_month": 1,
+    "publication_date_year": 2007,
+    "updated_in_mneia": "2025-02-10 09:51:10.654975+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "6d0c68ec-b6f7-4db5-9aef-9c65cade2cf7"
+}

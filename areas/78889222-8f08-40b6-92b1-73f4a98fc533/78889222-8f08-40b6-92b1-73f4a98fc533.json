@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-10 09:50:54.898497+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Θεσσαλονίκη",
+    "last_updated": "2013-11-02 10:39:51.291422+00:00",
+    "mbid": 5199,
+    "name": "Thessaloniki",
+    "type": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+    "updated_in_mneia": "2025-02-10 09:51:27.915590+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "78889222-8f08-40b6-92b1-73f4a98fc533"
+}

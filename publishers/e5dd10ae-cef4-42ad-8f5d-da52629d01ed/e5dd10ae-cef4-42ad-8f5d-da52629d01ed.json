@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-10 09:54:25.980917+00:00",
+    "name": "Εκδόσεις Όγδοο",
+    "updated_in_mneia": "2025-02-10 09:54:25.980928+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "e5dd10ae-cef4-42ad-8f5d-da52629d01ed"
+}

@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": 1872,
+    "comment": "",
+    "created_in_mneia": "2025-02-10 11:13:49.983252+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": 1952,
+    "ended": true,
+    "gender": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "last_updated": "2025-02-10 11:13:49.983301+00:00",
+    "mbid": null,
+    "name": "Νικόλαος Πετιμεζάς - Λαύρας",
+    "reference_name": "Πετιμεζάς - Λαύρας, Νικόλαος",
+    "sort_name": "Petimezas - Layras, Nikolaos",
+    "updated_in_mneia": "2025-02-10 11:13:49.983264+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "3574edd4-5e27-43b6-853c-af118327b90e"
+}
