@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-10 15:49:21.845051+00:00",
+    "edition": "Β' έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9607771338",
+    "name": "Διονύσης Σαββόπουλος: Υπόγεια διαδρομή",
+    "pages_number": 285,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1999,
+    "updated_in_mneia": "2025-02-10 15:49:21.845060+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "0a03c8e7-47db-45de-8803-dabd843c6f50"
+}

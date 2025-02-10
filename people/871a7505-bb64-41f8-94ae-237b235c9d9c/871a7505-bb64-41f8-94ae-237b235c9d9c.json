@@ -6,7 +6,7 @@
     "begin_date_month": null,
     "begin_date_year": null,
     "comment": "",
-    "created_in_mneia": "2025-02-10 09:55:17.765040+00:00",
+    "created_in_mneia": "2025-02-10 13:29:26.460553+00:00",
     "edits_pending": 0,
     "end_area": null,
     "end_date_day": null,
@@ -14,13 +14,13 @@
     "end_date_year": null,
     "ended": false,
     "gender": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-    "last_updated": "2025-02-10 15:27:40.351526+00:00",
+    "last_updated": "2025-02-10 13:29:26.460593+00:00",
     "mbid": null,
-    "name": "Φώντας Τρούσας",
-    "reference_name": "Τρούσας, Φώντας",
-    "sort_name": "Trousas, Fontas",
-    "updated_in_mneia": "2025-02-10 15:27:40.351516+00:00"
+    "name": "Κώστας Τσαρούχας",
+    "reference_name": "Τσαρούχας, Κώστας",
+    "sort_name": "Tsarouhas, Kostas",
+    "updated_in_mneia": "2025-02-10 13:29:26.460566+00:00"
   },
   "model": "mneia_backend.person",
-  "pk": "4962969e-2703-407f-9b5c-8ac65b7b277a"
+  "pk": "871a7505-bb64-41f8-94ae-237b235c9d9c"
 }

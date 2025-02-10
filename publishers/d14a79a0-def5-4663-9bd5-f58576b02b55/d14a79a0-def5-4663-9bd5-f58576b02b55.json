@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-10 13:31:18.345726+00:00",
+    "name": "Εκδόσεις Άγκυρα",
+    "updated_in_mneia": "2025-02-10 13:31:18.345739+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "d14a79a0-def5-4663-9bd5-f58576b02b55"
+}
