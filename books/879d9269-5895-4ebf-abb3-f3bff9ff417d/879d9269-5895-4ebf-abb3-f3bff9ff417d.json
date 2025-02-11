@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-10 18:32:14.796832+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789606882319",
+    "name": "Το παραμύθι της Ευτυχίας",
+    "pages_number": 565,
+    "publication_date_day": null,
+    "publication_date_month": 10,
+    "publication_date_year": 2010,
+    "updated_in_mneia": "2025-02-10 18:32:14.796857+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "879d9269-5895-4ebf-abb3-f3bff9ff417d"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "child_order": 2,
+    "created_in_mneia": "2025-02-11 00:53:29.655179+00:00",
+    "description": "Subdivision is used for the main administrative divisions of a country, e.g. California, Ontario, Okinawa. These are considered when displaying the parent areas for a given area.",
+    "mbid": 2,
+    "name": "Subdivision",
+    "parent": null,
+    "updated_in_mneia": "2025-02-11 00:53:29.655196+00:00"
+  },
+  "model": "mneia_backend.areatype",
+  "pk": "fd3d44c5-80a1-3842-9745-2c4972d35afa"
+}

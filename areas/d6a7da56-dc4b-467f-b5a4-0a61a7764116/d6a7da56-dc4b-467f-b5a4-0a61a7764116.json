@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 00:53:42.909445+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Σάμος",
+    "last_updated": "2013-11-02 07:52:11.169529+00:00",
+    "mbid": 4539,
+    "name": "Samos",
+    "type": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+    "updated_in_mneia": "2025-02-11 01:06:24.925993+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "d6a7da56-dc4b-467f-b5a4-0a61a7764116"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 01:35:07.082990+00:00",
+    "edition": "1η έκδοση",
+    "format": "31ff3b13-e911-4ccd-b17c-12123b9c94f1",
+    "isbn": "9789609936606",
+    "name": "Του κυρίου του η φωνή: Ιστορία της δισκογραφίας",
+    "pages_number": 346,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2010,
+    "updated_in_mneia": "2025-02-11 01:35:07.083003+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "dedbd5e3-2f57-4ff6-9a22-430aeb9117a1"
+}

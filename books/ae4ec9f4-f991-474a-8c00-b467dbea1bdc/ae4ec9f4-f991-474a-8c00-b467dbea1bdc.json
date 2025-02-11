@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-11 01:19:07.293584+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789607827951",
+    "name": "Απόστολος Καλδάρας: Αναφορά στη ζωή και το έργο του μεγάλου δημιουργού",
+    "pages_number": 429,
+    "publication_date_day": null,
+    "publication_date_month": 11,
+    "publication_date_year": 2008,
+    "updated_in_mneia": "2025-02-11 01:19:07.293596+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "ae4ec9f4-f991-474a-8c00-b467dbea1bdc"
+}

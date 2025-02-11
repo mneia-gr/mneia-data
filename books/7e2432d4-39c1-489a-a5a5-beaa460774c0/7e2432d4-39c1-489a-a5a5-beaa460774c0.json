@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 01:24:29.843448+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": null,
+    "name": "Οκτώ λαϊκά πορτρέτα: Μεγάλοι σολίστες του μπουζουκιού στγ δεκαετία του '50",
+    "pages_number": 291,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2007,
+    "updated_in_mneia": "2025-02-11 01:24:29.843464+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "7e2432d4-39c1-489a-a5a5-beaa460774c0"
+}

@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 01:06:00.925903+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "gender": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "last_updated": "2025-02-11 01:06:00.926031+00:00",
+    "mbid": null,
+    "name": "Κώστας Βλησίδης",
+    "reference_name": "Βλησίδης, Κώστας",
+    "sort_name": "Vlisidis, Kostas",
+    "updated_in_mneia": "2025-02-11 01:06:00.925941+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "b51e11cb-b0b3-403c-ad3c-fb588070c933"
+}

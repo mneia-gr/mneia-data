@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 01:08:49.959404+00:00",
+    "name": "Εκδόσεις του Εικοστού Πρώτου",
+    "updated_in_mneia": "2025-02-11 01:08:49.959416+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "fabe4442-8b8f-4c43-806b-e6043c22a66d"
+}

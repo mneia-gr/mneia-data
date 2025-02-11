@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 01:36:15.838210+00:00",
+    "name": "Εκδόσεις Μετρονόμος",
+    "updated_in_mneia": "2025-02-11 01:36:15.838221+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "0d40a6e0-1a44-4fed-8797-92b9636e4c2b"
+}

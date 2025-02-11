@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 01:26:21.564732+00:00",
+    "name": "Εκδόσεις του περιοδικού «Λαϊκό Τραγούδι»",
+    "updated_in_mneia": "2025-02-11 01:26:21.564746+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "2114a9a2-ddc7-4b3c-ae5b-68dc17d592c9"
+}

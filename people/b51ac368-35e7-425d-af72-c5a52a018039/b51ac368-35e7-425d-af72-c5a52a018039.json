@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": "d6a7da56-dc4b-467f-b5a4-0a61a7764116",
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": 1924,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 00:54:02.924227+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": 1,
+    "end_date_year": 2025,
+    "ended": true,
+    "gender": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "last_updated": "2025-02-11 00:55:56.195964+00:00",
+    "mbid": 499155,
+    "name": "Καίτη Γκρέυ",
+    "reference_name": "Γκρέυ, Καίτη",
+    "sort_name": "Grey, Kaiti",
+    "updated_in_mneia": "2025-02-11 00:55:56.195953+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "b51ac368-35e7-425d-af72-c5a52a018039"
+}

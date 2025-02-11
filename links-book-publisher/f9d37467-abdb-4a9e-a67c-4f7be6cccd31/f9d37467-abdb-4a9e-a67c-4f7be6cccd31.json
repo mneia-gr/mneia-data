@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "book": "dedbd5e3-2f57-4ff6-9a22-430aeb9117a1",
+    "created_in_mneia": "2025-02-11 01:36:36.376064+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-11 01:36:36.376084+00:00",
+    "link": "8bb20adb-3efb-4734-a1d0-7746a3f2b380",
+    "link_order": 0,
+    "mbid": null,
+    "publisher": "0d40a6e0-1a44-4fed-8797-92b9636e4c2b",
+    "updated_in_mneia": "2025-02-11 01:36:36.376074+00:00"
+  },
+  "model": "mneia_backend.linkbookpublisher",
+  "pk": "f9d37467-abdb-4a9e-a67c-4f7be6cccd31"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "book": "7e2432d4-39c1-489a-a5a5-beaa460774c0",
+    "created_in_mneia": "2025-02-11 01:25:11.077647+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-11 01:25:11.077671+00:00",
+    "link": "1453ec55-c3f8-49e7-aeae-e59a84f96a4f",
+    "link_order": 0,
+    "mbid": null,
+    "person": "b598b9d7-ec20-46d5-8732-2b5f7a2e4ad7",
+    "updated_in_mneia": "2025-02-11 01:25:11.077658+00:00"
+  },
+  "model": "mneia_backend.linkbookperson",
+  "pk": "6d3a514c-a9cb-4986-aa2e-c67e65a0cdc8"
+}
