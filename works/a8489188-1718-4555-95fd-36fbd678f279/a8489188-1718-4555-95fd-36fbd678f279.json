@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-11 09:26:25.380191+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-11 09:26:25.380246+00:00",
+    "mbid": null,
+    "name": "Φίγκαρο",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-11 09:26:25.380215+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "a8489188-1718-4555-95fd-36fbd678f279"
+}

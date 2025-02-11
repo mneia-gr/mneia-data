@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-11 09:56:13.559420+00:00",
+    "edition": "1η έκδοση",
+    "format": "31ff3b13-e911-4ccd-b17c-12123b9c94f1",
+    "isbn": null,
+    "name": "Λαϊκή κιθάρα: Τροπικότητα και εναρμόνιση",
+    "pages_number": 447,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2013,
+    "updated_in_mneia": "2025-02-11 10:01:37.675167+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "262c8d14-625f-45aa-9f01-504dcdc93aab"
+}
