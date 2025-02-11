@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "child_order": 0,
+    "created_in_mneia": "2025-02-11 13:54:46.900258+00:00",
+    "description": "This is used to Link a Book to a Person, where the Person is the editor of the Book.",
+    "entity0_cardinality": 0,
+    "entity1_cardinality": 0,
+    "entity_type0": "book",
+    "entity_type1": "person",
+    "has_dates": true,
+    "is_deprecated": false,
+    "last_updated": "2025-02-11 13:54:46.900311+00:00",
+    "link_phrase": "edited by",
+    "long_link_phrase": "was edited by",
+    "mbid": null,
+    "name": "editor",
+    "parent": null,
+    "reverse_link_phrase": "is the editor of",
+    "updated_in_mneia": "2025-02-11 13:54:46.900274+00:00"
+  },
+  "model": "mneia_backend.linktype",
+  "pk": "e440f59f-debd-4c0d-a100-2ae8f5f3cdd5"
+}

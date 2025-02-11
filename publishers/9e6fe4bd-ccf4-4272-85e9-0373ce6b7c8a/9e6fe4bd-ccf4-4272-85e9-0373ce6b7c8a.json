@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 11:22:50.998396+00:00",
+    "name": "Εκδοτικός οργανισμός Λιβάνη",
+    "updated_in_mneia": "2025-02-11 11:22:50.998408+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "9e6fe4bd-ccf4-4272-85e9-0373ce6b7c8a"
+}

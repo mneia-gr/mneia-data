@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 11:20:11.094773+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "960236727X",
+    "name": "Ελλήνων μούσα λαϊκή",
+    "pages_number": 431,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1997,
+    "updated_in_mneia": "2025-02-11 11:20:11.094800+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "61cd0413-ac64-415d-9777-4926735dfa98"
+}

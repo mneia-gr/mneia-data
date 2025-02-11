@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 11:54:08.974950+00:00",
+    "name": "Εκδόσεις Ανατολικός",
+    "updated_in_mneia": "2025-02-11 11:54:08.974964+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "e711136e-efcd-42fd-b186-e3bbefe81a0f"
+}

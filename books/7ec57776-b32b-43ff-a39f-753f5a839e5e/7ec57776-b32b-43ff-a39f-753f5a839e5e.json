@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 11:53:25.836180+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9608429528",
+    "name": "Τα τραγούδια των Ελλήνων: 1500 τραγούδια από το 1910 μέχρι σήμερα",
+    "pages_number": 433,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2004,
+    "updated_in_mneia": "2025-02-11 11:53:25.836209+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "7ec57776-b32b-43ff-a39f-753f5a839e5e"
+}
