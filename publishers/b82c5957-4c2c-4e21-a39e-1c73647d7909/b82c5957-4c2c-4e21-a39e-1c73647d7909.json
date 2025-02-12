@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 16:17:21.151863+00:00",
+    "name": "Εκδόσεις Ντέφι",
+    "updated_in_mneia": "2025-02-11 16:17:21.151875+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "b82c5957-4c2c-4e21-a39e-1c73647d7909"
+}

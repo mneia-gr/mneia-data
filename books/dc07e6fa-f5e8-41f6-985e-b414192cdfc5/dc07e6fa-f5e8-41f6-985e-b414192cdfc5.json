@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-11 16:24:27.861628+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9607827309",
+    "name": "Σταύρος Κουγιουμτζής: Χρόνια σαν βροχή",
+    "pages_number": 273,
+    "publication_date_day": null,
+    "publication_date_month": 11,
+    "publication_date_year": 2005,
+    "updated_in_mneia": "2025-02-11 16:24:27.861652+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "dc07e6fa-f5e8-41f6-985e-b414192cdfc5"
+}

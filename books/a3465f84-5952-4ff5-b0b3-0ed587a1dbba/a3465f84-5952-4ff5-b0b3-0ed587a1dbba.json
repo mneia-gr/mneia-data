@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-11 15:25:13.905175+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789605031114",
+    "name": "Ένα τραγούδι μια ιστορία",
+    "pages_number": 203,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2012,
+    "updated_in_mneia": "2025-02-11 15:25:13.905200+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "a3465f84-5952-4ff5-b0b3-0ed587a1dbba"
+}

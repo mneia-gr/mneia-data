@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 15:44:00.313735+00:00",
+    "name": "Εκδόσεις Κάκτος",
+    "updated_in_mneia": "2025-02-11 15:44:00.313750+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "7b2bbfe7-baf9-4937-b006-7e6394a25a17"
+}

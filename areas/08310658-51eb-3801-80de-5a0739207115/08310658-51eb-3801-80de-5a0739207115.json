@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 16:40:24.632146+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Γαλλία",
+    "last_updated": "2013-05-27 12:50:32.702645+00:00",
+    "mbid": 73,
+    "name": "France",
+    "type": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+    "updated_in_mneia": "2025-02-11 16:40:45.874518+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "08310658-51eb-3801-80de-5a0739207115"
+}

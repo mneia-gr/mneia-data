@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 18:07:47.627802+00:00",
+    "name": "Εκδόσεις Γράμματα",
+    "updated_in_mneia": "2025-02-11 18:07:47.627815+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "4731e06a-9a6a-44c5-a2e6-7995c4a5fa2b"
+}

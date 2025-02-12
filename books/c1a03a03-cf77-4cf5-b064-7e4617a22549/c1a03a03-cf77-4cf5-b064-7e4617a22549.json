@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-11 17:44:26.614201+00:00",
+    "edition": "Δεύτερη έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789601655550",
+    "name": "Μελίνα: Μια σταρ στην Αμερική",
+    "pages_number": 276,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": null,
+    "updated_in_mneia": "2025-02-11 17:44:26.614213+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "c1a03a03-cf77-4cf5-b064-7e4617a22549"
+}

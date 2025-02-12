@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 18:07:02.002298+00:00",
+    "edition": "Δεύτερη έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": null,
+    "name": "Δημοτικά τραγούδια",
+    "pages_number": 332,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1991,
+    "updated_in_mneia": "2025-02-11 18:07:02.002309+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "9fe45d20-fd3f-42e2-9a89-b654b24c602b"
+}

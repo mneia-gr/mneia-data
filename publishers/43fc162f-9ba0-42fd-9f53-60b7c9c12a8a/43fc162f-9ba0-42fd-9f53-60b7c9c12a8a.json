@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 16:42:50.970544+00:00",
+    "name": "Εκδόσεις Αλεξάνδρεια",
+    "updated_in_mneia": "2025-02-11 16:42:50.970560+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "43fc162f-9ba0-42fd-9f53-60b7c9c12a8a"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-11 16:47:26.286288+00:00",
+    "edition": "Δεύτερη έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789603032830",
+    "name": "Νίκος Μάθεσης: Ο θρυλικός τρελάκιας του ρεμπέτικου",
+    "pages_number": 297,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1999,
+    "updated_in_mneia": "2025-02-11 16:47:26.286312+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "6ce854ad-e6c7-4399-9087-ce2b104e08b8"
+}

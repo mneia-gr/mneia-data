@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 15:59:33.010970+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Πειραιάς",
+    "last_updated": "2014-12-29 00:57:02.047406+00:00",
+    "mbid": 105449,
+    "name": "Piraeus",
+    "type": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+    "updated_in_mneia": "2025-02-11 15:59:54.402840+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "15efe5b4-b9a1-4b04-aa81-ea17f87bdb8b"
+}

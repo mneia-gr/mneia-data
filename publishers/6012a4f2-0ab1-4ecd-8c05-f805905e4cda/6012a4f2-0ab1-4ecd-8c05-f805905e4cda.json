@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 16:47:38.983182+00:00",
+    "name": "Εκδόσεις Στοχαστής",
+    "updated_in_mneia": "2025-02-11 16:47:38.983196+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "6012a4f2-0ab1-4ecd-8c05-f805905e4cda"
+}

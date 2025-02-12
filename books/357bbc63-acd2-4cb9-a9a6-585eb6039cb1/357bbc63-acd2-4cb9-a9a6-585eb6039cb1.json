@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-11 16:02:18.389030+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": null,
+    "name": "Ιστορία του Ελληνικού Τραγουδιού: 1 (1824-1960)",
+    "pages_number": 318,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1984,
+    "updated_in_mneia": "2025-02-11 16:02:18.389043+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "357bbc63-acd2-4cb9-a9a6-585eb6039cb1"
+}

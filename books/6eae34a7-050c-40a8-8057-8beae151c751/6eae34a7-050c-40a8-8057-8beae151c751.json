@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-12 08:52:22.750579+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9602249226",
+    "name": "Ο Θεόδωρος Δερβενιώτης και το μετεμφυλιακό τραγούδι",
+    "pages_number": 337,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2003,
+    "updated_in_mneia": "2025-02-12 08:52:22.750606+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "6eae34a7-050c-40a8-8057-8beae151c751"
+}

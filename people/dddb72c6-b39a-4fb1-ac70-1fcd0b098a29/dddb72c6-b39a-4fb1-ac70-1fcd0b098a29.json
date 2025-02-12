@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-11 17:55:24.296010+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "gender": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "last_updated": "2025-02-11 17:55:24.296057+00:00",
+    "mbid": null,
+    "name": "Μαρία Κωνσταντινίδου",
+    "reference_name": "Κωνσταντινίδου, Μαρία",
+    "sort_name": "Konstantinidou, Maria",
+    "updated_in_mneia": "2025-02-11 17:55:24.296025+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "dddb72c6-b39a-4fb1-ac70-1fcd0b098a29"
+}

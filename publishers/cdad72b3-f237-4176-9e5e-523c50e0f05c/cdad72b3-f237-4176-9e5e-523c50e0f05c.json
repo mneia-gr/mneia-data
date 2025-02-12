@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 16:35:41.752123+00:00",
+    "name": "Εκδόσεις Βιβλιοπέλαγος",
+    "updated_in_mneia": "2025-02-11 16:35:41.752135+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "cdad72b3-f237-4176-9e5e-523c50e0f05c"
+}

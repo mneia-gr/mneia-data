@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 17:45:22.869626+00:00",
+    "name": "Εκδόσεις Πατάκη",
+    "updated_in_mneia": "2025-02-11 17:45:22.869640+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "342b1977-1b12-4505-812f-c46bf56a9987"
+}

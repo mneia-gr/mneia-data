@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 16:42:35.089991+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9786182230268",
+    "name": "Ιάννης Ξενάκης: Ένας συγκλονιστικός πατέρας",
+    "pages_number": 286,
+    "publication_date_day": null,
+    "publication_date_month": 11,
+    "publication_date_year": 2023,
+    "updated_in_mneia": "2025-02-11 16:42:35.090016+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "d5181d4b-981d-47c1-b0f1-faf5862d1434"
+}

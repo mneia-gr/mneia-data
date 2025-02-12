@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-12 08:52:46.170816+00:00",
+    "name": "Σύγχρονη Εποχή Εκδοτική",
+    "updated_in_mneia": "2025-02-12 08:52:46.170831+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "52e73ec4-6c5c-4960-bfa0-6f0289ef5fc9"
+}

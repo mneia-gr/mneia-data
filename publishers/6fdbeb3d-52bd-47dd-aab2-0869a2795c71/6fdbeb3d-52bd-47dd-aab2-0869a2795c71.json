@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-11 16:02:32.186934+00:00",
+    "name": "Εκδόσεις Κέδρος",
+    "updated_in_mneia": "2025-02-11 16:02:32.186949+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "6fdbeb3d-52bd-47dd-aab2-0869a2795c71"
+}

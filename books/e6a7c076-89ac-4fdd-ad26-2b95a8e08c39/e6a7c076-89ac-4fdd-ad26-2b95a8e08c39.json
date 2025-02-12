@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 16:34:42.882969+00:00",
+    "edition": "Δεύτερη έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "960728013X",
+    "name": "Αναζητώντας Κροκανθρώπους",
+    "pages_number": 396,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2000,
+    "updated_in_mneia": "2025-02-11 16:34:42.882993+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "e6a7c076-89ac-4fdd-ad26-2b95a8e08c39"
+}

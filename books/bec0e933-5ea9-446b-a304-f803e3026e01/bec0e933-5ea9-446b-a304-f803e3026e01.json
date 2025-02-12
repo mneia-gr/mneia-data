@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-11 15:42:19.818528+00:00",
+    "edition": "Γ' έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": null,
+    "name": "Ντόμπρα και σταράτα",
+    "pages_number": 317,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1996,
+    "updated_in_mneia": "2025-02-11 15:42:19.818554+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "bec0e933-5ea9-446b-a304-f803e3026e01"
+}
