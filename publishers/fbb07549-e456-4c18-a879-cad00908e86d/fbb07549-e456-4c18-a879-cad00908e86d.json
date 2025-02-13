@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 10:36:39.622346+00:00",
+    "name": "Museum Tusculanum Press",
+    "updated_in_mneia": "2025-02-13 10:36:39.622359+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "fbb07549-e456-4c18-a879-cad00908e86d"
+}

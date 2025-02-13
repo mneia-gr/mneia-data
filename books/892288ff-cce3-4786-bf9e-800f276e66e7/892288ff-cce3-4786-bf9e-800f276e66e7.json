@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-13 12:29:54.792012+00:00",
+    "edition": "1η έκδοση",
+    "format": "31ff3b13-e911-4ccd-b17c-12123b9c94f1",
+    "isbn": "9789603983903",
+    "name": "Μουσικοί διάλογοι: Με τριάντα κορυφαίους δημιουργούς του ελληνικού τραγουδιού",
+    "pages_number": 524,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": null,
+    "updated_in_mneia": "2025-02-13 12:29:54.792025+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "892288ff-cce3-4786-bf9e-800f276e66e7"
+}

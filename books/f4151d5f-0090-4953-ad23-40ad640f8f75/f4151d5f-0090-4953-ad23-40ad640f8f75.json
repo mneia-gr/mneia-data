@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-13 11:06:44.286939+00:00",
+    "edition": "2η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9786185033361",
+    "name": "Χρήστος Νικολόπουλος: Η Ζωή μου... τα Τραγούδια μου",
+    "pages_number": 370,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": null,
+    "updated_in_mneia": "2025-02-13 11:08:57.663147+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "f4151d5f-0090-4953-ad23-40ad640f8f75"
+}

@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 09:31:34.195625+00:00",
+    "name": "Εκδόσεις Toubi's",
+    "updated_in_mneia": "2025-02-13 09:31:34.195637+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "9b9bfe83-80a1-41c5-b48f-126173a45fd4"
+}

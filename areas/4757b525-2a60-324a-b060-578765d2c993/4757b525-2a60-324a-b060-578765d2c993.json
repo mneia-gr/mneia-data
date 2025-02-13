@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-13 10:30:41.853713+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Δανία",
+    "last_updated": "2013-05-27 13:28:43.191347+00:00",
+    "mbid": 57,
+    "name": "Denmark",
+    "type": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+    "updated_in_mneia": "2025-02-13 10:31:20.188203+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "4757b525-2a60-324a-b060-578765d2c993"
+}

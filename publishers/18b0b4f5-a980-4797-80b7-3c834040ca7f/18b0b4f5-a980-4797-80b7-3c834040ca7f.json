@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 12:05:41.306134+00:00",
+    "name": "Εμπειρία Εκδοτική",
+    "updated_in_mneia": "2025-02-13 12:05:41.306146+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "18b0b4f5-a980-4797-80b7-3c834040ca7f"
+}

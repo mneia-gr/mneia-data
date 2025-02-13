@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-13 16:09:00.270336+00:00",
+    "edition": "3η Έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9602349867",
+    "name": "Ιστορία της Ελληνικής μουσικής",
+    "pages_number": 407,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2003,
+    "updated_in_mneia": "2025-02-13 16:09:00.270363+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "cffcca34-bf17-4240-9184-50b01b5d8b12"
+}

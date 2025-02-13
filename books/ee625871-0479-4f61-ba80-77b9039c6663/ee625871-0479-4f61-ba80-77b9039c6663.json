@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "e0e3c82a-aea8-48d3-beda-9e587db0b969",
+    "created_in_mneia": "2025-02-13 10:33:34.898251+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "8772891343",
+    "name": "Χασικλίδικα ρεμπέτικα: Ανθολογία - ανάλυση - σχόλια",
+    "pages_number": 154,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1991,
+    "updated_in_mneia": "2025-02-13 10:36:00.669707+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "ee625871-0479-4f61-ba80-77b9039c6663"
+}

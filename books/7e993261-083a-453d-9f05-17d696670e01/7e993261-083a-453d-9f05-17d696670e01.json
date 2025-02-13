@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-13 11:59:16.837243+00:00",
+    "edition": "1η έκδοση",
+    "format": "31ff3b13-e911-4ccd-b17c-12123b9c94f1",
+    "isbn": "9786185010188",
+    "name": "Μουσικό σεργιάνι: Άλλα 22 «ρεμπέτικα» πορτρέτα",
+    "pages_number": 454,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2014,
+    "updated_in_mneia": "2025-02-13 11:59:16.837270+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "7e993261-083a-453d-9f05-17d696670e01"
+}

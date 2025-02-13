@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 11:08:15.955177+00:00",
+    "name": "Εκδόσεις Αλκυών",
+    "updated_in_mneia": "2025-02-13 11:08:15.955189+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "21f291a9-158a-46c8-9bb9-949a323e419b"
+}

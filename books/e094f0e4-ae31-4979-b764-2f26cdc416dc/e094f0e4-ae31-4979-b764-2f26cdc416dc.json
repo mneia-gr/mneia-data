@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-13 12:04:55.023158+00:00",
+    "edition": "Πρώτη έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789604172856",
+    "name": "Μάλιστα, κύριε... Ζαμπέτα",
+    "pages_number": 162,
+    "publication_date_day": null,
+    "publication_date_month": 11,
+    "publication_date_year": 2009,
+    "updated_in_mneia": "2025-02-13 12:04:55.023189+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "e094f0e4-ae31-4979-b764-2f26cdc416dc"
+}

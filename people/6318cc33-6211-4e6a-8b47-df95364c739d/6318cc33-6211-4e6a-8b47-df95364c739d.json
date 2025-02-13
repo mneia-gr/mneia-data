@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "4757b525-2a60-324a-b060-578765d2c993",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-13 10:31:01.785811+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "gender": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "last_updated": "2025-02-13 10:31:01.785914+00:00",
+    "mbid": null,
+    "name": "Suzanne Aulin",
+    "reference_name": "Aulin, Suzanne",
+    "sort_name": "Aulin, Suzanne",
+    "updated_in_mneia": "2025-02-13 10:31:01.785839+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "6318cc33-6211-4e6a-8b47-df95364c739d"
+}
