@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-13 06:31:59.211156+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789601679013",
+    "name": "Οι ωραίοι έχουν χρέη",
+    "pages_number": 205,
+    "publication_date_day": null,
+    "publication_date_month": 4,
+    "publication_date_year": 2018,
+    "updated_in_mneia": "2025-02-13 06:31:59.211173+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "fc41f6cc-3956-4743-86e3-4fa89a2b7dbf"
+}

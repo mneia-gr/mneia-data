@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 06:44:07.493317+00:00",
+    "name": "Εκδόσεις Opera",
+    "updated_in_mneia": "2025-02-13 06:44:07.493329+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "eacfd9a6-79f6-4188-a1ad-5a23475cd0c6"
+}

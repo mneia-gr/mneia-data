@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-12 09:01:43.860656+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-12 09:01:43.860725+00:00",
+    "mbid": null,
+    "name": "Πώς εσώθη το χωριό",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-12 09:01:43.860682+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "c6638ab4-75d7-4e53-8251-027b7c2ffc2a"
+}

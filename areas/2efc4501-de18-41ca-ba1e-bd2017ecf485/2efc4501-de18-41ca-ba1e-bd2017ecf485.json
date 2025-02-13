@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-13 07:29:22.679885+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Σύρος",
+    "last_updated": "2016-07-15 23:24:24.785210+00:00",
+    "mbid": 116512,
+    "name": "Syros",
+    "type": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+    "updated_in_mneia": "2025-02-13 07:30:16.865170+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "2efc4501-de18-41ca-ba1e-bd2017ecf485"
+}

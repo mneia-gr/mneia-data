@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-13 08:23:38.785826+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "gender": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "last_updated": "2025-02-13 08:23:38.785870+00:00",
+    "mbid": null,
+    "name": "Χρήστος Καρδαράς",
+    "reference_name": "Καρδαράς, Χρήστος",
+    "sort_name": "Kardaras, Christos",
+    "updated_in_mneia": "2025-02-13 08:23:38.785838+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "5171d1bf-1fdb-4d2e-9b3c-d8fb2cba9ccf"
+}

@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 06:38:21.357249+00:00",
+    "name": "Εκδόσεις Μύρτος",
+    "updated_in_mneia": "2025-02-13 06:38:21.357281+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "fc8ba031-d4c4-440e-a805-e19f5efe96d5"
+}

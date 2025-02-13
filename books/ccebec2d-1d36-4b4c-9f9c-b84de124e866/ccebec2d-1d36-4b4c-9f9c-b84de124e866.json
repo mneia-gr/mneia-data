@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-12 15:04:01.909591+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9786185339043",
+    "name": "Πώς να φτιάξετε ένα ροκ συγκρότημα",
+    "pages_number": 115,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2017,
+    "updated_in_mneia": "2025-02-12 15:04:01.909604+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "ccebec2d-1d36-4b4c-9f9c-b84de124e866"
+}

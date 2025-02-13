@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": null,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-13 08:07:02.345607+00:00",
+    "edits_pending": 0,
+    "end_area": null,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "gender": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "last_updated": "2025-02-13 08:07:02.345755+00:00",
+    "mbid": null,
+    "name": "Μάνος Τουρπάλης",
+    "reference_name": "Τουρπάλης, Μάνος",
+    "sort_name": "Tourpalis, Manos",
+    "updated_in_mneia": "2025-02-13 08:07:02.345644+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "f38ca60c-b033-40fa-a51b-0b3d9addc378"
+}

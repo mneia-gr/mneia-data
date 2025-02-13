@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 08:01:49.439364+00:00",
+    "name": "Εκδόσεις Νεφέλη",
+    "updated_in_mneia": "2025-02-13 08:01:49.439376+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "48da086a-24e3-491c-9c06-e673d9966329"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "child_order": 6,
+    "created_in_mneia": "2025-02-13 07:29:04.191558+00:00",
+    "description": "Island is used for islands and atolls which don't form subdivisions of their own, e.g. Skye. These are not considered when displaying the parent areas for a given area.",
+    "mbid": 6,
+    "name": "Island",
+    "parent": null,
+    "updated_in_mneia": "2025-02-13 07:29:04.191576+00:00"
+  },
+  "model": "mneia_backend.areatype",
+  "pk": "3f8e7b66-058b-369b-9834-ffa5fcba5641"
+}

@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-12 12:03:40.898016+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-12 12:03:40.898062+00:00",
+    "mbid": null,
+    "name": "Παλαιά ανάμνησις",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-12 12:03:40.898029+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "463a5da2-9d09-4ab0-a3c7-56b3b9615c9f"
+}

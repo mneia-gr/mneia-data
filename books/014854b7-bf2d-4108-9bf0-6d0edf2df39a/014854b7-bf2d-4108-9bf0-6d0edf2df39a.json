@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "78889222-8f08-40b6-92b1-73f4a98fc533",
+    "created_in_mneia": "2025-02-13 08:29:58.143808+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789606882333",
+    "name": "Ένας βούρκος με γαρδένιες",
+    "pages_number": 499,
+    "publication_date_day": null,
+    "publication_date_month": 10,
+    "publication_date_year": 2010,
+    "updated_in_mneia": "2025-02-13 08:29:58.143819+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "014854b7-bf2d-4108-9bf0-6d0edf2df39a"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-13 08:00:57.352030+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "960211634X",
+    "name": "Ελληνική μουσική: Ιστορικά ορόσημα",
+    "pages_number": 180,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2002,
+    "updated_in_mneia": "2025-02-13 08:00:57.352056+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "c4ff178c-2b6b-47c1-bd66-d565d4b559b6"
+}

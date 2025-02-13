@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-13 07:32:55.470393+00:00",
+    "name": "Εκδόσεις Παπαζήση",
+    "updated_in_mneia": "2025-02-13 07:32:55.470405+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "996d53c9-c72c-4d84-9b7f-66a2d29c8b23"
+}
