@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-15 11:35:41.106278+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-15 11:35:41.106308+00:00",
+    "mbid": null,
+    "name": "Ο Παπαμαλαγάνας",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-15 11:35:41.106289+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "bbfe6e15-89f8-4680-b407-d75a6d580ffa"
+}

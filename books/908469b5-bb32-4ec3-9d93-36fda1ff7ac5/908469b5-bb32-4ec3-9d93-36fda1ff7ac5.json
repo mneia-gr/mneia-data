@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-14 08:13:29.749272+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": null,
+    "name": "Λαϊκοί πραχτικοί οργανοπαίχτες",
+    "pages_number": 243,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1983,
+    "updated_in_mneia": "2025-02-14 08:13:29.749297+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "908469b5-bb32-4ec3-9d93-36fda1ff7ac5"
+}

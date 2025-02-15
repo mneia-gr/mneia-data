@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-14 08:57:12.941126+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789604173211",
+    "name": "Θα ζήσω ελεύθερο πουλί: Ζακ Ιακωβίδης",
+    "pages_number": 151,
+    "publication_date_day": null,
+    "publication_date_month": 5,
+    "publication_date_year": 2011,
+    "updated_in_mneia": "2025-02-14 08:57:12.941138+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "61a3547d-1de6-4af5-910b-33e17f663d0a"
+}

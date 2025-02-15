@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "4f3c29d3-b1f9-476d-a71f-cdde6907a997",
+    "created_in_mneia": "2025-02-14 08:47:30.121350+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789605770242",
+    "name": "Το χρέος: Αυτοβιογραφία - Τόμος Δ'",
+    "pages_number": 351,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 2011,
+    "updated_in_mneia": "2025-02-14 08:50:29.914449+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "2a7fca28-0b81-4cbc-929d-2359d2d9b45f"
+}

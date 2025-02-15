@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-14 08:49:05.866210+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Ηράκλειο",
+    "last_updated": "2017-01-26 00:45:10.407488+00:00",
+    "mbid": 117001,
+    "name": "Heraklion",
+    "type": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+    "updated_in_mneia": "2025-02-14 08:49:26.170753+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "4f3c29d3-b1f9-476d-a71f-cdde6907a997"
+}

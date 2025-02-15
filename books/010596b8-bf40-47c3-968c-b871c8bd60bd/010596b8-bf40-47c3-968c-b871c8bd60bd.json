@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-14 08:06:48.165198+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9607058429",
+    "name": "Γιώργος Μητσάκης: Αυτοβιογραφία",
+    "pages_number": 225,
+    "publication_date_day": null,
+    "publication_date_month": null,
+    "publication_date_year": 1995,
+    "updated_in_mneia": "2025-02-14 08:06:48.165221+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "010596b8-bf40-47c3-968c-b871c8bd60bd"
+}

@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-02-14 08:43:34.854062+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": "Χίος",
+    "last_updated": "2013-06-05 06:25:19.527449+00:00",
+    "mbid": 4540,
+    "name": "Chios",
+    "type": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+    "updated_in_mneia": "2025-02-14 08:43:55.260831+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "caf8c18d-4a9f-4e96-bf8e-988585482e59"
+}

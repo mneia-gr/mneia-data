@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "attribute_count": 1,
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "created": "2025-02-15 12:31:33.341456+00:00",
+    "created_in_mneia": "2025-02-15 12:31:33.341414+00:00",
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "link_type": "9b92f6c4-977f-416e-acfb-c7181e12abd9",
+    "mbid": null,
+    "updated_in_mneia": "2025-02-15 12:31:33.341429+00:00"
+  },
+  "model": "mneia_backend.link",
+  "pk": "610cf589-13cf-4e94-ba71-4bdd80a13e1b"
+}

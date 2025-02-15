@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "created_in_mneia": "2025-02-14 08:38:28.327107+00:00",
+    "edition": "6η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789601697918",
+    "name": "Να βρω ξανά του νήματος την άκρη...",
+    "pages_number": 157,
+    "publication_date_day": null,
+    "publication_date_month": 7,
+    "publication_date_year": 2023,
+    "updated_in_mneia": "2025-02-14 08:38:28.327122+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "c5f1758f-d671-48a5-be83-cce28fa9a6a6"
+}

@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-14 08:15:05.644507+00:00",
+    "name": "Εκδόσεις Επικαιρότητα",
+    "updated_in_mneia": "2025-02-14 08:15:05.644527+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "5ad3620a-d5fd-428a-ac9f-20e744b71aa7"
+}

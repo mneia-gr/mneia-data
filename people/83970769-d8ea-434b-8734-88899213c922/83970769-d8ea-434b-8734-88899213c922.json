@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "area": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+    "begin_area": "caf8c18d-4a9f-4e96-bf8e-988585482e59",
+    "begin_date_day": 29,
+    "begin_date_month": 7,
+    "begin_date_year": 1925,
+    "comment": "Greek composer and lyricist",
+    "created_in_mneia": "2025-02-14 08:44:18.045979+00:00",
+    "edits_pending": 0,
+    "end_area": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+    "end_date_day": 2,
+    "end_date_month": 9,
+    "end_date_year": 2021,
+    "ended": true,
+    "gender": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "last_updated": "2025-02-14 08:44:54.693547+00:00",
+    "mbid": 482331,
+    "name": "Μίκης Θεοδωράκης",
+    "reference_name": "Θεοδωράκης, Μίκης",
+    "sort_name": "Theodorakis, Mikis",
+    "updated_in_mneia": "2025-02-14 08:44:54.693536+00:00"
+  },
+  "model": "mneia_backend.person",
+  "pk": "83970769-d8ea-434b-8734-88899213c922"
+}

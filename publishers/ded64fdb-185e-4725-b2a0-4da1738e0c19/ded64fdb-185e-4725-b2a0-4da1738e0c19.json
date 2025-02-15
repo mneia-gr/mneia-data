@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-14 08:49:47.175004+00:00",
+    "name": "Πανεπιστημιακές Εκδόσεις Κρήτης",
+    "updated_in_mneia": "2025-02-14 08:49:47.175020+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "ded64fdb-185e-4725-b2a0-4da1738e0c19"
+}
