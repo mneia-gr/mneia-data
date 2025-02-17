@@ -17,7 +17,7 @@
   // }
   "dialog": {
     "prefix": ["dialog", "διαλ"],
-    "description": "Insert a dialog list",
+    "description": "Insert a dialog list.",
     "scope": "markdown",
     "body": [
       "<ol style=\"list-style-type: '&mdash; '\">",
@@ -26,5 +26,12 @@
       "</ol>",
       ""
     ]
+  },
+  // https://en.wikipedia.org/wiki/Asterism_(typography)
+  "asterism": {
+    "prefix": ["aster", "αστερ"],
+    "description": "Insert an asterism, centered on the page.",
+    "scope": "markdown",
+    "body": "<div style=\"text-align: center; margin-bottom: 1em\">⁂</div>\n\n"
   }
 }

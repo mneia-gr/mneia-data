@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-16 05:28:32.128945+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-16 05:28:32.129043+00:00",
+    "mbid": null,
+    "name": "Το παγωτό του κυρ Δήμαρχου",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-16 05:28:32.128988+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "e42249ce-e197-4242-b384-5fd156234814"
+}
