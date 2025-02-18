@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-17 14:53:31.816833+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-17 14:53:31.816892+00:00",
+    "link": "220c8b9c-13f4-40a7-b5f0-637d2172126b",
+    "link_order": 0,
+    "magazine_issue": "fb21bc7a-7ea2-42ef-a38a-547aa10f2e77",
+    "mbid": null,
+    "updated_in_mneia": "2025-02-17 14:53:31.816861+00:00",
+    "work": "bbffcd36-ecf9-46b5-93ea-77a7012216ae"
+  },
+  "model": "mneia_backend.linkmagazineissuework",
+  "pk": "18d45859-b062-43e8-a8ce-77c76cfc2b26"
+}
