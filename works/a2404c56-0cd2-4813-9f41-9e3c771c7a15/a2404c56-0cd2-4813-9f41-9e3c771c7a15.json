@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-18 07:15:20.191616+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-18 07:15:20.191692+00:00",
+    "mbid": null,
+    "name": "Ασφάλεια",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-18 07:15:20.191644+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "a2404c56-0cd2-4813-9f41-9e3c771c7a15"
+}

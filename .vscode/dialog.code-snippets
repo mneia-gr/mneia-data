@@ -33,5 +33,12 @@
     "description": "Insert an asterism, centered on the page.",
     "scope": "markdown",
     "body": "<div style=\"text-align: center; margin-bottom: 1em\">⁂</div>\n\n"
+  },
+  "ndash": {
+    // Insert an n-dash, slightly faster to type 'νδαση' than to switch keyboard layout from Greek to English and back
+    "prefix": ["ndash", "νδαση"],
+    "description": "Insert an n-dash",
+    "scope": "markdown",
+    "body": "&ndash;"
   }
 }
