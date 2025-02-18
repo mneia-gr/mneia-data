@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-18 07:59:47.890349+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-18 07:59:47.890446+00:00",
+    "mbid": null,
+    "name": "Φαινόμενα",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-18 07:59:47.890382+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "3abc9457-2495-41b2-8df8-2db25b53871c"
+}

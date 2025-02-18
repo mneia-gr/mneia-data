@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-18 12:31:49.093521+00:00",
+    "name": "Self Published",
+    "updated_in_mneia": "2025-02-18 12:31:49.093534+00:00"
+  },
+  "model": "mneia_backend.publisher",
+  "pk": "ca58920d-2932-4585-9b5b-b3c305fecbcf"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "area": null,
+    "created_in_mneia": "2025-02-18 12:29:38.244837+00:00",
+    "edition": "1η έκδοση",
+    "format": "78a2d4eb-0794-48bd-ad88-735413aa5395",
+    "isbn": "9789609387538",
+    "name": "Τα απομνημονεύματά μου",
+    "pages_number": 613,
+    "publication_date_day": null,
+    "publication_date_month": 12,
+    "publication_date_year": 2016,
+    "updated_in_mneia": "2025-02-18 12:29:38.244859+00:00"
+  },
+  "model": "mneia_backend.book",
+  "pk": "5cb211d5-b376-4174-8079-dbf05323b411"
+}
