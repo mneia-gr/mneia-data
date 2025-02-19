@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-19 08:35:44.305281+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-19 08:36:31.487912+00:00",
+    "mbid": null,
+    "name": "Τα ματογιάλια του Δήμαρχου",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-19 08:36:31.487904+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "5dfbb87a-bc3f-4823-874e-8ac21335c059"
+}

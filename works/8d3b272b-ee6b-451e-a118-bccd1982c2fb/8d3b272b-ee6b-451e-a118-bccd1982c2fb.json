@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-19 01:40:22.158749+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-19 01:40:22.158825+00:00",
+    "mbid": null,
+    "name": "Μια μάχη",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-19 01:40:22.158774+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "8d3b272b-ee6b-451e-a118-bccd1982c2fb"
+}
