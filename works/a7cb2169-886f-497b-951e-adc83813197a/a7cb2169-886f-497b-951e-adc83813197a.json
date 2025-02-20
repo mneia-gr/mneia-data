@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-20 15:02:52.917267+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-20 15:02:52.917349+00:00",
+    "mbid": null,
+    "name": "Παράπονο",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-20 15:02:52.917291+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "a7cb2169-886f-497b-951e-adc83813197a"
+}
