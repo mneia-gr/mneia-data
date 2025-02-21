@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-21 09:52:22.362952+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-21 09:52:22.363034+00:00",
+    "mbid": null,
+    "name": "Υποκατάστασις",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-21 09:52:22.362981+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "d5667dde-f5b7-4508-b705-52b5a292f6e3"
+}
