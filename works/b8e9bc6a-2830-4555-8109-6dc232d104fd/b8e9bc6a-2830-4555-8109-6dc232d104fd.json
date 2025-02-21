@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-21 12:19:05.164417+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-21 12:19:05.164498+00:00",
+    "mbid": null,
+    "name": "Αγριοζωή",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-21 12:19:05.164443+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "b8e9bc6a-2830-4555-8109-6dc232d104fd"
+}

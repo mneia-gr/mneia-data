@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-21 10:59:48.655478+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-21 10:59:48.655556+00:00",
+    "mbid": null,
+    "name": "Να το είχαμε;",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-21 10:59:48.655506+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "3ecd99f0-2fa8-4390-8a6a-953128d57ac3"
+}
