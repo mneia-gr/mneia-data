@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-22 08:41:08.641622+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-22 08:41:08.641711+00:00",
+    "mbid": null,
+    "name": "Καφεντάκι!",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-22 08:41:08.641653+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "be813b1c-50f2-41d7-aba6-6a895f82fa35"
+}

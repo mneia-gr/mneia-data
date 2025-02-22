@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-22 10:47:04.251141+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-22 10:47:04.251202+00:00",
+    "mbid": null,
+    "name": "Μεγάλοι αδικημένοι",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-22 10:47:04.251162+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "7d442393-afc5-40c6-922a-4ff0964a6b8d"
+}

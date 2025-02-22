@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-22 09:14:28.597356+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-22 09:14:28.597435+00:00",
+    "mbid": null,
+    "name": "Τσακατσούκας",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-22 09:14:28.597384+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "11111d5f-ba39-4aa4-91bb-4c47fb36fff5"
+}
