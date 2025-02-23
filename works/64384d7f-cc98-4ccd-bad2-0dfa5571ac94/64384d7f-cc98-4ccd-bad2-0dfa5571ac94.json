@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-23 08:03:02.891165+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-23 08:03:02.891221+00:00",
+    "mbid": null,
+    "name": "Η μεγάλη αλήθεια",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-23 08:03:02.891184+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "64384d7f-cc98-4ccd-bad2-0dfa5571ac94"
+}
