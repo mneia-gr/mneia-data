@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-24 19:06:38.844948+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-24 19:06:38.845022+00:00",
+    "mbid": null,
+    "name": "Ο μυστήριος με τα μονοσύλλαβα",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-24 19:06:38.844974+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "b8dfd86e-187e-4deb-99e5-5bc624bb2b9f"
+}

@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-24 04:13:12.885062+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-24 04:13:12.885138+00:00",
+    "mbid": null,
+    "name": "Τι θα γίνει ο Μιχαλάκης;",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-24 04:13:12.885089+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "03f7a199-0d0c-4b13-9327-a144d35283e3"
+}

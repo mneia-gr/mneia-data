@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-23 16:38:50.587887+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-23 16:38:50.587995+00:00",
+    "mbid": null,
+    "name": "Το λεξικό για τα ανάποδα",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-02-23 16:38:50.587923+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "ff5531e8-e3f6-45ae-8be2-49b164f716ce"
+}

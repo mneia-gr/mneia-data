@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-24 10:35:29.694542+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-24 10:35:29.694566+00:00",
+    "mbid": null,
+    "name": "Η ταβέρνα του Σαντορινηού",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-24 10:35:29.694551+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "df65d1d8-836d-4494-bc60-977b4318c4ed"
+}

@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-24 12:18:17.870455+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-24 12:18:17.870532+00:00",
+    "mbid": null,
+    "name": "Η κιθάρα",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-24 12:18:17.870483+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "023a3ed2-b9bd-4da5-ae78-e2e97ae13201"
+}

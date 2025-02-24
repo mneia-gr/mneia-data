@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-24 09:24:06.078191+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-24 09:36:21.274577+00:00",
+    "mbid": null,
+    "name": "Το “Καναρίνι” ή το νούμερο 122",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-24 09:36:21.274570+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "1a2138ad-2e2d-46fa-9443-4c0ee71a08eb"
+}
