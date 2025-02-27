@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "created_in_mneia": "2025-02-25 08:06:07.129441+00:00",
+    "edits_pending": 0,
+    "entity0_credit": "",
+    "entity1_credit": "",
+    "last_updated": "2025-02-25 08:06:07.129467+00:00",
+    "link": "ab469fb8-b0bb-4f40-8346-b7f5e1635907",
+    "link_order": 0,
+    "mbid": null,
+    "person": "3574edd4-5e27-43b6-853c-af118327b90e",
+    "updated_in_mneia": "2025-02-25 08:06:07.129455+00:00",
+    "work": "3f8cccbd-0e44-4fbd-a420-b4bf25dc7f3e"
+  },
+  "model": "mneia_backend.linkpersonwork",
+  "pk": "662cdec9-b217-40ab-be64-f4c1cc483c30"
+}

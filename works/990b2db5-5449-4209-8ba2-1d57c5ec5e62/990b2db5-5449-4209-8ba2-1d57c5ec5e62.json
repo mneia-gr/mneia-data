@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-26 17:01:58.754634+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-26 17:01:58.754712+00:00",
+    "mbid": null,
+    "name": "Ο στοιχειωμένος μύλος",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-26 17:01:58.754660+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "990b2db5-5449-4209-8ba2-1d57c5ec5e62"
+}

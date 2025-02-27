@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-25 08:05:41.998941+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-25 08:05:41.999010+00:00",
+    "mbid": null,
+    "name": "--Κανενός δεν είμαι: Είμαι εγώ!",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-25 08:05:41.998966+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "3f8cccbd-0e44-4fbd-a420-b4bf25dc7f3e"
+}

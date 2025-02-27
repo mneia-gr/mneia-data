@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-26 08:06:57.606392+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-26 08:06:57.606512+00:00",
+    "mbid": null,
+    "name": "Ο μην του μέλιτος",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-26 08:06:57.606442+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "6a07d8af-a0b0-421c-b613-ca7c1fe3aafb"
+}
