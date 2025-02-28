@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "attribute_type": "9bff5ee1-a035-42a8-8b2f-da0b7d7213d3",
+    "created_in_mneia": "2025-02-28 09:03:21.702862+00:00",
+    "link": "799d9697-57ef-4fb2-a6ad-b4490ac12509",
+    "text_value": "4",
+    "updated_in_mneia": "2025-02-28 09:03:21.702889+00:00"
+  },
+  "model": "mneia_backend.linkattributetextvalue",
+  "pk": "ecfd6b13-c31b-4fb2-9eab-1b4ccf493826"
+}
