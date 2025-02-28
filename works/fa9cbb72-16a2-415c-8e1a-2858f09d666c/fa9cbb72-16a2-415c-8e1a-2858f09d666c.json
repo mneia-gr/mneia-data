@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-02-27 10:13:23.539001+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-02-27 10:13:23.539079+00:00",
+    "mbid": null,
+    "name": "Το κρεββάτι",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-02-27 10:13:23.539028+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "fa9cbb72-16a2-415c-8e1a-2858f09d666c"
+}
