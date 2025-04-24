@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-04-24 12:10:46.703012+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-04-24 12:10:46.703042+00:00",
+    "mbid": null,
+    "name": "Το αμάξι του σουλτάνου",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-04-24 12:10:46.703023+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "576a6d8b-369c-4b54-8a5d-f6ab8052913e"
+}
