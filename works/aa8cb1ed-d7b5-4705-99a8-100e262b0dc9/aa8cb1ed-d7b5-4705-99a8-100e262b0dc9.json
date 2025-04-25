@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-04-24 15:22:25.665070+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-04-24 15:22:25.665098+00:00",
+    "mbid": null,
+    "name": "Ξέρω τους ανθρώπους μου",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-04-24 15:22:25.665080+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "aa8cb1ed-d7b5-4705-99a8-100e262b0dc9"
+}

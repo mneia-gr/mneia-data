@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-04-25 11:57:14.022128+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-04-25 11:57:14.022164+00:00",
+    "mbid": null,
+    "name": "Μεταπολεμικά επαγγέλματα",
+    "type": "ee073257-b9e6-417a-bb23-059502946647",
+    "updated_in_mneia": "2025-04-25 11:57:14.022140+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "4ed7e94c-0890-414f-9118-c6ae7ddd2c73"
+}
