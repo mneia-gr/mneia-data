@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "begin_date_day": null,
+    "begin_date_month": null,
+    "begin_date_year": null,
+    "comment": "",
+    "created_in_mneia": "2025-05-14 08:41:12.335441+00:00",
+    "edits_pending": 0,
+    "end_date_day": null,
+    "end_date_month": null,
+    "end_date_year": null,
+    "ended": false,
+    "greek_name": null,
+    "last_updated": "2013-11-26 13:30:48.906793+00:00",
+    "mbid": 5065,
+    "name": "Istanbul",
+    "type": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+    "updated_in_mneia": "2025-05-14 08:41:12.335463+00:00"
+  },
+  "model": "mneia_backend.area",
+  "pk": "f9a822ff-adce-434c-9292-a8b6a0a37a8e"
+}

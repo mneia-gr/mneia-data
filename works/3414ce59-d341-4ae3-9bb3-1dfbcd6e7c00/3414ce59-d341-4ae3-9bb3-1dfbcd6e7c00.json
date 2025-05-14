@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-05-14 09:01:55.407051+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-05-14 09:01:55.407080+00:00",
+    "mbid": null,
+    "name": "Ο παράς",
+    "type": "66b8026e-7ce8-36f8-a8d5-7c346c7b9a88",
+    "updated_in_mneia": "2025-05-14 09:01:55.407062+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "3414ce59-d341-4ae3-9bb3-1dfbcd6e7c00"
+}
