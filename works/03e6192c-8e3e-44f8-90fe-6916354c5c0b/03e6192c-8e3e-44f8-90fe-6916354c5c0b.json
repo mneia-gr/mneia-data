@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "comment": "",
+    "created_in_mneia": "2025-05-14 10:47:48.678783+00:00",
+    "edits_pending": 0,
+    "last_updated": "2025-05-14 10:47:48.678821+00:00",
+    "mbid": null,
+    "name": "Τα θαύματα του ταχυδακτυλουργού",
+    "type": "4fa59409-50c6-446b-b871-85836553f3b5",
+    "updated_in_mneia": "2025-05-14 10:47:48.678797+00:00"
+  },
+  "model": "mneia_backend.work",
+  "pk": "03e6192c-8e3e-44f8-90fe-6916354c5c0b"
+}
